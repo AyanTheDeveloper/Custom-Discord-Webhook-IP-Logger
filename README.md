@@ -24,6 +24,12 @@ Try using on yourself first, test to see what your working with.
 On the other persons side it will look like this:
 
 **When sending has began:**
+
+
 ![Screenshot 2023-06-15 132904](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/76c8ea32-e245-4418-a232-295b85da33f6)
+
+
 **When Sending has ended (ip is sent):**
+
+
 ![Screenshot 2023-06-15 132914](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a66678cd-e0d5-4a25-8d9e-0b3d172c796d)
