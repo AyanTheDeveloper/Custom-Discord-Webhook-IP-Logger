@@ -41,6 +41,11 @@ And boom! Just like that. You are ready to share this program to other users.
 
 
 ![Screenshot 2023-06-15 133206](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a20d5d0e-0017-4898-b022-3af0a383f06a)
+## Files you can remove if you want to:
+
+
+![image](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/76067430-ee78-40a3-bc67-8b9f6583a76d)
+**DLL AND INI FILES EXCEPT CSCORD.DLL CAN BE REMOVED. THEY ARE ADDED TO MAKE THE APPLICATION FOLDER LOOK LIKE AN ACTUAL APPLICATION.**
 
 ## Is it dualhooked?
 I understand completely that most other free 'IP Stealers' are dualhooked. But with our service, you may check the source code. In no way is this dualhooked. (it might be if you install it from some other random website.)
