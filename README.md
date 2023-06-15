@@ -21,7 +21,7 @@ Try using on yourself first, test to see what your working with.
 
 ![Screenshot 2023-06-15 125923](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/f995b3c3-3e2b-403b-a2f4-d1de630aacf3)
 
-On the other persons side it will look like this:
+## On the other persons side it will look like this:
 
 **When sending has began:**
 
@@ -33,3 +33,11 @@ On the other persons side it will look like this:
 
 
 ![Screenshot 2023-06-15 132914](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a66678cd-e0d5-4a25-8d9e-0b3d172c796d)
+
+## Delete the following before use:
+
+
+![Screenshot 2023-06-15 133206](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a20d5d0e-0017-4898-b022-3af0a383f06a)
+
+## Is it dualhooked?
+I understand completely that most other free 'IP Stealers' are dualhooked. But with our service, you may check the source code. In no way is this dualhooked. (it might be if you install it from some other random website.)
