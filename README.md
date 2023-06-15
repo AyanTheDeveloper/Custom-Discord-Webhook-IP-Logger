@@ -20,6 +20,9 @@ Try using on yourself first, test to see what your working with.
 
 ![Screenshot 2023-06-15 125923](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/f995b3c3-3e2b-403b-a2f4-d1de630aacf3)
 
+
+And boom! Just like that. You are ready to share this program to other users.
+
 ## On the other persons side it will look like this:
 
 **When sending has began:**
@@ -40,3 +43,5 @@ Try using on yourself first, test to see what your working with.
 
 ## Is it dualhooked?
 I understand completely that most other free 'IP Stealers' are dualhooked. But with our service, you may check the source code. In no way is this dualhooked. (it might be if you install it from some other random website.)
+## Disclaimer
+Im not responsible for any legal trouble, use at your own risk. I do not promote any kind of illegal activity and this program may only be used for demonstrative purposes. 
