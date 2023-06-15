@@ -48,6 +48,6 @@ And boom! Just like that. You are ready to share this program to other users.
 **DLL AND INI FILES EXCEPT CSCORD.DLL CAN BE REMOVED. THEY ARE ADDED TO MAKE THE APPLICATION FOLDER LOOK LIKE AN ACTUAL APPLICATION.**
 
 ## Is it dualhooked?
-I understand completely that most other free 'IP Stealers' are dualhooked. But with our service, you may check the source code. In no way is this dualhooked. (it might be if you install it from some other random website.)
+I understand completely that most other free "IP Stealers" are dualhooked. But with our service, you may check the source code. In no way is this dualhooked. (it might be if you install it from some other random website.)
 ## Disclaimer
 Im not responsible for any legal trouble, use at your own risk. I do not promote any kind of illegal activity and this program may only be used for demonstrative purposes. 
