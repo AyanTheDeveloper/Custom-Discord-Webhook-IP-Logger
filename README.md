@@ -1,4 +1,4 @@
-# ***DO NOT DOWNLOAD SOURCE CODE! IT WILL NOT GIVE YOU FULL FOLDERS.***
+**DO NOT DOWNLOAD SOURCE CODE! IT WILL NOT GIVE YOU FULL FOLDERS.***
 ## How to install
 Go to releases and download the latest version.
 ## To Setup
