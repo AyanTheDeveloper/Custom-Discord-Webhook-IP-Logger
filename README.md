@@ -20,6 +20,7 @@ Try using on yourself first, test to see what your working with.
 
 ![Screenshot 2023-06-15 125923](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/f995b3c3-3e2b-403b-a2f4-d1de630aacf3)
 
+**THE FOLLOWING PICTURE IS JUST A DEMO, ON THE FULL VERSION IT WILL SHOW THESE FIELDS!**
 
 And boom! Just like that. You are ready to share this program to other users.
 
